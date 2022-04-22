@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Gmail</string>
+    
+    <string-array name="user_name">
+        <item>Oliver Kahn</item>
+        <item>Andrew Baena</item>
+        <item>Taylor Joy</item>
+        <item>Donn Corleon</item>
+        <item>Minh Pham</item>
+        <item>Luis Hamill</item>
+        <item>Joseph Starr</item>
+        <item>Warren Wong</item>
+        <item>Sushii</item>
+        <item>Gian Paige</item>
+    </string-array>
+
+    <string-array name="msg_detail">
+        <item>Hey, Can you send me the assignment so we can finish it quickly!</item>
+        <item>Can you tell Joseph to meet me in the Cafetaria at 5 PM?</item>
+        <item>Are you ready for the seminar tomorrow? i can't wait to see it!</item>
+        <item>Hi Ben, I've attached the contract for our new freelance designer who starts working with us next months.</item>
+        <item>Hi Ben, It was great to connect with you at CodeFun event and i'd love to meet with you more.</item>
+        <item>Dear Ben, We're holding a birthday party at JD's Bar on the next month and would love you to be there.</item>
+        <item>Hey man, I saw your post on traffic metrics, Loved it my guy!</item>
+        <item>Hi Ben, We just want to take this opportunity to thank you for choosing GigaByte as your company's provider of computer hardware.</item>
+        <item>Hey Ben, I will be on vacation between April 1 - April 7. I'm going to Spanish to watch Real Madrid. Hala Madrid!</item>
+        <item>Thank you for reaching out to learn more about Marketing ABC! The best way to learn about our offerings as they pertain to your particular business.</item>
+    </string-array>
+</resources>
